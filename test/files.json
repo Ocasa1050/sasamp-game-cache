@@ -1,4 +1,3815 @@
 {
-  "allFilesSize": 0,
-  "files": []
+  "allFilesSize": 2159383535,
+  "files": [
+    {
+      "path": "SAMP/SAMP.ide",
+      "size": 89262,
+      "hash": 1774754000,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/SAMP.ide.zip"
+    },
+    {
+      "path": "SAMP/TIMECYC.DAT",
+      "size": 40037,
+      "hash": 3895753148,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/TIMECYC.DAT.zip"
+    },
+    {
+      "path": "SAMP/carcols.dat",
+      "size": 15337,
+      "hash": 1244896022,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/carcols.dat.zip"
+    },
+    {
+      "path": "SAMP/carmods.dat",
+      "size": 8763,
+      "hash": 3341094867,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/carmods.dat.zip"
+    },
+    {
+      "path": "SAMP/default.ide",
+      "size": 4679,
+      "hash": 2550927058,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/default.ide.zip"
+    },
+    {
+      "path": "SAMP/fonts/arial.ttf",
+      "size": 367112,
+      "hash": 3311468482,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/fonts/arial.ttf.zip"
+    },
+    {
+      "path": "SAMP/fonts/arial_bold.ttf",
+      "size": 352224,
+      "hash": 1041325953,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/fonts/arial_bold.ttf.zip"
+    },
+    {
+      "path": "SAMP/fonts/sampaux3.ttf",
+      "size": 11544,
+      "hash": 1224802988,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/fonts/sampaux3.ttf.zip"
+    },
+    {
+      "path": "SAMP/gta.dat",
+      "size": 1556,
+      "hash": 1491582310,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/gta.dat.zip"
+    },
+    {
+      "path": "SAMP/handling.cfg",
+      "size": 69871,
+      "hash": 2140574202,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/handling.cfg.zip"
+    },
+    {
+      "path": "SAMP/main.scm",
+      "size": 18398,
+      "hash": 1679516241,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/main.scm.zip"
+    },
+    {
+      "path": "SAMP/object.dat",
+      "size": 126118,
+      "hash": 2971568253,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/object.dat.zip"
+    },
+    {
+      "path": "SAMP/peds.ide",
+      "size": 33401,
+      "hash": 3760275453,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/peds.ide.zip"
+    },
+    {
+      "path": "SAMP/plates/ru_font.ttf",
+      "size": 233076,
+      "hash": 1972120286,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/plates/ru_font.ttf.zip"
+    },
+    {
+      "path": "SAMP/plates/ua_font.ttf",
+      "size": 233176,
+      "hash": 2348849986,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/plates/ua_font.ttf.zip"
+    },
+    {
+      "path": "SAMP/popcycle.dat",
+      "size": 120836,
+      "hash": 3052551287,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/popcycle.dat.zip"
+    },
+    {
+      "path": "SAMP/reytiz.dat",
+      "size": 115096,
+      "hash": 1205267338,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/reytiz.dat.zip"
+    },
+    {
+      "path": "SAMP/sampvoice/svconfig.ini",
+      "size": 138,
+      "hash": 2871405768,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/sampvoice/svconfig.ini.zip"
+    },
+    {
+      "path": "SAMP/script.img",
+      "size": 4096,
+      "hash": 12977135,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/script.img.zip"
+    },
+    {
+      "path": "SAMP/surface.dat",
+      "size": 576,
+      "hash": 1114796003,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/surface.dat.zip"
+    },
+    {
+      "path": "SAMP/svlog.txt",
+      "size": 479,
+      "hash": 2694949499,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/svlog.txt.zip"
+    },
+    {
+      "path": "SAMP/vehicleAudioSettings.cfg",
+      "size": 29064,
+      "hash": 1127638355,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/vehicleAudioSettings.cfg.zip"
+    },
+    {
+      "path": "SAMP/vehicles.ide",
+      "size": 21060,
+      "hash": 1017861282,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/vehicles.ide.zip"
+    },
+    {
+      "path": "SAMP/vehicles.idetest",
+      "size": 21190,
+      "hash": 2560850182,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/vehicles.idetest.zip"
+    },
+    {
+      "path": "SAMP/weapon.dat",
+      "size": 11599,
+      "hash": 2409607172,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/SAMP/weapon.dat.zip"
+    },
+    {
+      "path": "Text/american.gxt",
+      "size": 1339424,
+      "hash": 2765062132,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/Text/american.gxt.zip"
+    },
+    {
+      "path": "Text/french.gxt",
+      "size": 1459044,
+      "hash": 4035728420,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/Text/french.gxt.zip"
+    },
+    {
+      "path": "Text/german.gxt",
+      "size": 1497182,
+      "hash": 562430032,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/Text/german.gxt.zip"
+    },
+    {
+      "path": "Text/italian.gxt",
+      "size": 1371048,
+      "hash": 3212204115,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/Text/italian.gxt.zip"
+    },
+    {
+      "path": "Text/japanese.gxt",
+      "size": 643202,
+      "hash": 2727241063,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/Text/japanese.gxt.zip"
+    },
+    {
+      "path": "Text/russian.gxt",
+      "size": 1421038,
+      "hash": 1053726045,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/Text/russian.gxt.zip"
+    },
+    {
+      "path": "Text/spanish.gxt",
+      "size": 1386744,
+      "hash": 393101178,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/Text/spanish.gxt.zip"
+    },
+    {
+      "path": "Textures/fonts/JapaneseFont.met",
+      "size": 45171,
+      "hash": 3641006180,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/Textures/fonts/JapaneseFont.met.zip"
+    },
+    {
+      "path": "Textures/fonts/JapaneseFont.png",
+      "size": 187721,
+      "hash": 4258243637,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/Textures/fonts/JapaneseFont.png.zip"
+    },
+    {
+      "path": "Textures/fonts/RussianFont.met",
+      "size": 4279,
+      "hash": 1279310079,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/Textures/fonts/RussianFont.met.zip"
+    },
+    {
+      "path": "Textures/fonts/RussianFont.png",
+      "size": 38743,
+      "hash": 345321683,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/Textures/fonts/RussianFont.png.zip"
+    },
+    {
+      "path": "anim/anim.img",
+      "size": 10942464,
+      "hash": 3358307926,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/anim/anim.img.zip"
+    },
+    {
+      "path": "anim/cuts.img",
+      "size": 270096384,
+      "hash": 3436590518,
+      "url": "https://github.com/Ocasa1050/sasamp-game-cache/releases/download/release-1/anim__cuts.img__ccd635b6.zip"
+    },
+    {
+      "path": "anim/ped.ifp",
+      "size": 1433248,
+      "hash": 2957964797,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/anim/ped.ifp.zip"
+    },
+    {
+      "path": "audio/CONFIG/AudioEventHistory.txt",
+      "size": 114056,
+      "hash": 2973997443,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/CONFIG/AudioEventHistory.txt.zip"
+    },
+    {
+      "path": "audio/CONFIG/BankLkup.dat",
+      "size": 3828,
+      "hash": 2005138766,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/CONFIG/BankLkup.dat.zip"
+    },
+    {
+      "path": "audio/CONFIG/BankSlot.dat",
+      "size": 216902,
+      "hash": 3792326893,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/CONFIG/BankSlot.dat.zip"
+    },
+    {
+      "path": "audio/CONFIG/BanksNum.dat",
+      "size": 16,
+      "hash": 120586539,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/CONFIG/BanksNum.dat.zip"
+    },
+    {
+      "path": "audio/CONFIG/EventVol.dat",
+      "size": 45402,
+      "hash": 1996799948,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/CONFIG/EventVol.dat.zip"
+    },
+    {
+      "path": "audio/CONFIG/PakFiles.dat",
+      "size": 208,
+      "hash": 273160195,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/CONFIG/PakFiles.dat.zip"
+    },
+    {
+      "path": "audio/CONFIG/SOUNDINF.DAT",
+      "size": 20012,
+      "hash": 1900642717,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/CONFIG/SOUNDINF.DAT.zip"
+    },
+    {
+      "path": "audio/CONFIG/StrmPaks.dat",
+      "size": 272,
+      "hash": 1829965576,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/CONFIG/StrmPaks.dat.zip"
+    },
+    {
+      "path": "audio/CONFIG/TRKHEAD.DAT",
+      "size": 15506696,
+      "hash": 883896078,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/CONFIG/TRKHEAD.DAT.zip"
+    },
+    {
+      "path": "audio/CONFIG/TrakLkup.dat",
+      "size": 23064,
+      "hash": 655741918,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/CONFIG/TrakLkup.dat.zip"
+    },
+    {
+      "path": "audio/CONFIG/enginesfx.dat",
+      "size": 1994,
+      "hash": 3556067331,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/CONFIG/enginesfx.dat.zip"
+    },
+    {
+      "path": "audio/CONFIG/exhausts.dat",
+      "size": 357,
+      "hash": 3821877396,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/CONFIG/exhausts.dat.zip"
+    },
+    {
+      "path": "audio/SFX/FEET.osw",
+      "size": 138118,
+      "hash": 3888530208,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/SFX/FEET.osw.zip"
+    },
+    {
+      "path": "audio/SFX/FEET.osw.idx",
+      "size": 1220,
+      "hash": 3573696019,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/SFX/FEET.osw.idx.zip"
+    },
+    {
+      "path": "audio/SFX/GENRL.osw",
+      "size": 12159361,
+      "hash": 1783648504,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/SFX/GENRL.osw.zip"
+    },
+    {
+      "path": "audio/SFX/GENRL.osw.idx",
+      "size": 22148,
+      "hash": 567777445,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/SFX/GENRL.osw.idx.zip"
+    },
+    {
+      "path": "audio/SFX/PAIN_A.osw",
+      "size": 3247335,
+      "hash": 155851401,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/SFX/PAIN_A.osw.zip"
+    },
+    {
+      "path": "audio/SFX/PAIN_A.osw.idx",
+      "size": 12836,
+      "hash": 2918104974,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/SFX/PAIN_A.osw.idx.zip"
+    },
+    {
+      "path": "audio/SFX/VEHICLE.osw",
+      "size": 58638957,
+      "hash": 2201835099,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/SFX/VEHICLE.osw.zip"
+    },
+    {
+      "path": "audio/SFX/VEHICLE.osw.idx",
+      "size": 13764,
+      "hash": 131544125,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/SFX/VEHICLE.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/AA.osw",
+      "size": 15462,
+      "hash": 4119114765,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/AA.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/AA.osw.idx",
+      "size": 1522,
+      "hash": 4236944234,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/AA.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/ADVERTS.osw",
+      "size": 3516982,
+      "hash": 1404183753,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/ADVERTS.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/ADVERTS.osw.idx",
+      "size": 1591,
+      "hash": 4142706020,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/ADVERTS.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/AMBIENCE.osw",
+      "size": 22719112,
+      "hash": 3628926228,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/AMBIENCE.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/AMBIENCE.osw.idx",
+      "size": 924,
+      "hash": 167120050,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/AMBIENCE.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/BEATS.osw",
+      "size": 9415375,
+      "hash": 2590814711,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/BEATS.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/BEATS.osw.idx",
+      "size": 234,
+      "hash": 2784182708,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/BEATS.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/CH.osw",
+      "size": 15462,
+      "hash": 4119114765,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/CH.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/CH.osw.idx",
+      "size": 2994,
+      "hash": 3736685672,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/CH.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/CO.osw",
+      "size": 15462,
+      "hash": 4119114765,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/CO.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/CO.osw.idx",
+      "size": 3569,
+      "hash": 3564570017,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/CO.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/CR.osw",
+      "size": 15462,
+      "hash": 4119114765,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/CR.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/CR.osw.idx",
+      "size": 3592,
+      "hash": 179633018,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/CR.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/CUTSCENE.osw",
+      "size": 301175,
+      "hash": 1224686194,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/CUTSCENE.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/CUTSCENE.osw.idx",
+      "size": 3247,
+      "hash": 3338361421,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/CUTSCENE.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/DS.osw",
+      "size": 15462,
+      "hash": 4119114765,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/DS.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/DS.osw.idx",
+      "size": 4121,
+      "hash": 2344919833,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/DS.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/HC.osw",
+      "size": 15462,
+      "hash": 4119114765,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/HC.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/HC.osw.idx",
+      "size": 2649,
+      "hash": 3018716183,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/HC.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/MH.osw",
+      "size": 15462,
+      "hash": 4119114765,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/MH.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/MH.osw.idx",
+      "size": 3500,
+      "hash": 3562071157,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/MH.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/MR.osw",
+      "size": 15462,
+      "hash": 4119114765,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/MR.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/MR.osw.idx",
+      "size": 3385,
+      "hash": 1663089474,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/MR.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/NJ.osw",
+      "size": 15462,
+      "hash": 4119114765,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/NJ.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/NJ.osw.idx",
+      "size": 2994,
+      "hash": 1228953626,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/NJ.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/RE.osw",
+      "size": 15462,
+      "hash": 4119114765,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/RE.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/RE.osw.idx",
+      "size": 3707,
+      "hash": 1317018327,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/RE.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/RG.osw",
+      "size": 15462,
+      "hash": 4119114765,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/RG.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/RG.osw.idx",
+      "size": 3914,
+      "hash": 2952610364,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/RG.osw.idx.zip"
+    },
+    {
+      "path": "audio/STREAMS/TK.osw",
+      "size": 15462,
+      "hash": 4119114765,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/TK.osw.zip"
+    },
+    {
+      "path": "audio/STREAMS/TK.osw.idx",
+      "size": 2327,
+      "hash": 1519563606,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/audio/STREAMS/TK.osw.idx.zip"
+    },
+    {
+      "path": "data/360Default1280x720.cfg",
+      "size": 10898,
+      "hash": 851880713,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/360Default1280x720.cfg.zip"
+    },
+    {
+      "path": "data/360Default960x720.cfg",
+      "size": 10888,
+      "hash": 1061398809,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/360Default960x720.cfg.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/Cop.ped",
+      "size": 4908,
+      "hash": 3809901350,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/Cop.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/Fireman.ped",
+      "size": 4435,
+      "hash": 1632248752,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/Fireman.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/GangMbr.ped",
+      "size": 6194,
+      "hash": 686907855,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/GangMbr.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/Indoors.ped",
+      "size": 2809,
+      "hash": 2762473151,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/Indoors.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/MISSION.grp",
+      "size": 2758,
+      "hash": 3729913085,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/MISSION.grp.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/RANDOM.grp",
+      "size": 4623,
+      "hash": 3079031265,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/RANDOM.grp.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/RANDOM.ped",
+      "size": 4142,
+      "hash": 2344547064,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/RANDOM.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/RANDOM2.grp",
+      "size": 4623,
+      "hash": 1561610729,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/RANDOM2.grp.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/R_Norm.ped",
+      "size": 6450,
+      "hash": 3282737248,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/R_Norm.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/R_Tough.ped",
+      "size": 6378,
+      "hash": 1791592991,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/R_Tough.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/R_Weak.ped",
+      "size": 6289,
+      "hash": 3918494099,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/R_Weak.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/m_empty.ped",
+      "size": 982,
+      "hash": 2261627755,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/m_empty.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/m_norm.ped",
+      "size": 4142,
+      "hash": 2344547064,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/m_norm.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/m_plyr.ped",
+      "size": 2000,
+      "hash": 4142820251,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/m_plyr.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/m_steal.ped",
+      "size": 3663,
+      "hash": 3089406548,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/m_steal.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/m_tough.ped",
+      "size": 3980,
+      "hash": 2265633763,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/m_tough.ped.zip"
+    },
+    {
+      "path": "data/Decision/Allowed/m_weak.ped",
+      "size": 4062,
+      "hash": 2789663796,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/Allowed/m_weak.ped.zip"
+    },
+    {
+      "path": "data/Decision/PedEvent.txt",
+      "size": 1298,
+      "hash": 3146074557,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/Decision/PedEvent.txt.zip"
+    },
+    {
+      "path": "data/ShopUVs.dat",
+      "size": 30509,
+      "hash": 3774209496,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/ShopUVs.dat.zip"
+    },
+    {
+      "path": "data/TouchDefaultPhone3x2.cfg",
+      "size": 10912,
+      "hash": 612411579,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/TouchDefaultPhone3x2.cfg.zip"
+    },
+    {
+      "path": "data/TouchDefaultPhoneWidescreen.cfg",
+      "size": 10924,
+      "hash": 3671632416,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/TouchDefaultPhoneWidescreen.cfg.zip"
+    },
+    {
+      "path": "data/TouchDefaultTablet4x3.cfg",
+      "size": 10926,
+      "hash": 1845866282,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/TouchDefaultTablet4x3.cfg.zip"
+    },
+    {
+      "path": "data/TouchDefaultTabletWidescreen.cfg",
+      "size": 10923,
+      "hash": 3043993664,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/TouchDefaultTabletWidescreen.cfg.zip"
+    },
+    {
+      "path": "data/animgrp.dat",
+      "size": 3096,
+      "hash": 3128358158,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/animgrp.dat.zip"
+    },
+    {
+      "path": "data/ar_stats.dat",
+      "size": 3593,
+      "hash": 3426010845,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/ar_stats.dat.zip"
+    },
+    {
+      "path": "data/carcols.dat",
+      "size": 15337,
+      "hash": 1244896022,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/carcols.dat.zip"
+    },
+    {
+      "path": "data/cargrp.dat",
+      "size": 3909,
+      "hash": 1576317685,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/cargrp.dat.zip"
+    },
+    {
+      "path": "data/carmods.dat",
+      "size": 8763,
+      "hash": 3341094867,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/carmods.dat.zip"
+    },
+    {
+      "path": "data/clothes.dat",
+      "size": 5317,
+      "hash": 2517071145,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/clothes.dat.zip"
+    },
+    {
+      "path": "data/colorcycle.dat",
+      "size": 13612,
+      "hash": 3650062273,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/colorcycle.dat.zip"
+    },
+    {
+      "path": "data/default.dat",
+      "size": 577,
+      "hash": 1329440123,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/default.dat.zip"
+    },
+    {
+      "path": "data/default.ide",
+      "size": 4679,
+      "hash": 2550927058,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/default.ide.zip"
+    },
+    {
+      "path": "data/fonts.dat",
+      "size": 3576,
+      "hash": 3612992086,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/fonts.dat.zip"
+    },
+    {
+      "path": "data/furnitur.dat",
+      "size": 16480,
+      "hash": 2327124811,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/furnitur.dat.zip"
+    },
+    {
+      "path": "data/gridref.dat",
+      "size": 1498,
+      "hash": 2741587483,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/gridref.dat.zip"
+    },
+    {
+      "path": "data/gta.dat",
+      "size": 1461,
+      "hash": 2372444480,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/gta.dat.zip"
+    },
+    {
+      "path": "data/handling.cfg",
+      "size": 64545,
+      "hash": 3161614014,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/handling.cfg.zip"
+    },
+    {
+      "path": "data/info.zon",
+      "size": 28139,
+      "hash": 4178785235,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/info.zon.zip"
+    },
+    {
+      "path": "data/mainv1.scm",
+      "size": 20169,
+      "hash": 242979987,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/mainv1.scm.zip"
+    },
+    {
+      "path": "data/map.zon",
+      "size": 436,
+      "hash": 657740952,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/map.zon.zip"
+    },
+    {
+      "path": "data/maps/0.IPL",
+      "size": 108477,
+      "hash": 2117387973,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/0.IPL.zip"
+    },
+    {
+      "path": "data/maps/1.IPL",
+      "size": 74529,
+      "hash": 1389451305,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/1.IPL.zip"
+    },
+    {
+      "path": "data/maps/123.IPL",
+      "size": 18345,
+      "hash": 3449971981,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/123.IPL.zip"
+    },
+    {
+      "path": "data/maps/13.IPL",
+      "size": 48,
+      "hash": 2388594511,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/13.IPL.zip"
+    },
+    {
+      "path": "data/maps/2.IPL",
+      "size": 48,
+      "hash": 2388594511,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/2.IPL.zip"
+    },
+    {
+      "path": "data/maps/3.IPL",
+      "size": 45304,
+      "hash": 1828251606,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/3.IPL.zip"
+    },
+    {
+      "path": "data/maps/4.IPL",
+      "size": 48,
+      "hash": 2388594511,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/4.IPL.zip"
+    },
+    {
+      "path": "data/maps/5.IPL",
+      "size": 51885,
+      "hash": 4200008470,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/5.IPL.zip"
+    },
+    {
+      "path": "data/maps/6.IPL",
+      "size": 728,
+      "hash": 3036249319,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/6.IPL.zip"
+    },
+    {
+      "path": "data/maps/8bit/INT_1.IPL",
+      "size": 1706,
+      "hash": 3950386999,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/INT_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/8bit/TIKI - копия.IDE",
+      "size": 23364,
+      "hash": 505940582,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/TIKI%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IDE.zip"
+    },
+    {
+      "path": "data/maps/8bit/TIKI.IDE",
+      "size": 25422,
+      "hash": 541982781,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/TIKI.IDE.zip"
+    },
+    {
+      "path": "data/maps/8bit/TIKI_.IDE",
+      "size": 22880,
+      "hash": 1972677082,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/TIKI_.IDE.zip"
+    },
+    {
+      "path": "data/maps/8bit/beach.IPL",
+      "size": 56440,
+      "hash": 1535554592,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/beach.IPL.zip"
+    },
+    {
+      "path": "data/maps/8bit/dcs.IDE",
+      "size": 8133,
+      "hash": 3527882027,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/dcs.IDE.zip"
+    },
+    {
+      "path": "data/maps/8bit/docks.IPL",
+      "size": 9534,
+      "hash": 1160800914,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/docks.IPL.zip"
+    },
+    {
+      "path": "data/maps/8bit/dtn_n.IPL",
+      "size": 56773,
+      "hash": 730586754,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/dtn_n.IPL.zip"
+    },
+    {
+      "path": "data/maps/8bit/dtn_s.IPL",
+      "size": 69195,
+      "hash": 2985295570,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/dtn_s.IPL.zip"
+    },
+    {
+      "path": "data/maps/8bit/hispa.IPL",
+      "size": 85956,
+      "hash": 1586408744,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/hispa.IPL.zip"
+    },
+    {
+      "path": "data/maps/8bit/hotes.IPL",
+      "size": 55949,
+      "hash": 111900202,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/hotes.IPL.zip"
+    },
+    {
+      "path": "data/maps/8bit/ints.IDE",
+      "size": 446,
+      "hash": 1967418917,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/ints.IDE.zip"
+    },
+    {
+      "path": "data/maps/8bit/swanks.IPL",
+      "size": 77025,
+      "hash": 523822457,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/swanks.IPL.zip"
+    },
+    {
+      "path": "data/maps/8bit/uni_props.IDE",
+      "size": 3434,
+      "hash": 2250460252,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/uni_props.IDE.zip"
+    },
+    {
+      "path": "data/maps/8bit/water.dat",
+      "size": 16427,
+      "hash": 1777236614,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/8bit/water.dat.zip"
+    },
+    {
+      "path": "data/maps/Audiozon.ipl",
+      "size": 153,
+      "hash": 2687052816,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/Audiozon.ipl.zip"
+    },
+    {
+      "path": "data/maps/BRIDGES/bridge_p.IPL",
+      "size": 2531,
+      "hash": 2782198463,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/BRIDGES/bridge_p.IPL.zip"
+    },
+    {
+      "path": "data/maps/EMPTY.IPL",
+      "size": 2,
+      "hash": 2490392,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/EMPTY.IPL.zip"
+    },
+    {
+      "path": "data/maps/KINGS/kings1.IPL",
+      "size": 48,
+      "hash": 2388594511,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/KINGS/kings1.IPL.zip"
+    },
+    {
+      "path": "data/maps/LA/LAe.ide",
+      "size": 70,
+      "hash": 3203011184,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAe.ide.zip"
+    },
+    {
+      "path": "data/maps/LA/LAe.ipl",
+      "size": 2484,
+      "hash": 1562431200,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAe.ipl.zip"
+    },
+    {
+      "path": "data/maps/LA/LAe2.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAe2.ide.zip"
+    },
+    {
+      "path": "data/maps/LA/LAe2.ipl",
+      "size": 156,
+      "hash": 2721262847,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAe2.ipl.zip"
+    },
+    {
+      "path": "data/maps/LA/LAhills.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAhills.ide.zip"
+    },
+    {
+      "path": "data/maps/LA/LAhills.ipl",
+      "size": 156,
+      "hash": 2721262847,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAhills.ipl.zip"
+    },
+    {
+      "path": "data/maps/LA/LAn.ide",
+      "size": 156,
+      "hash": 2721262847,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAn.ide.zip"
+    },
+    {
+      "path": "data/maps/LA/LAn.ipl",
+      "size": 50290,
+      "hash": 1999341092,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAn.ipl.zip"
+    },
+    {
+      "path": "data/maps/LA/LAn2.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAn2.ide.zip"
+    },
+    {
+      "path": "data/maps/LA/LAn2.ipl",
+      "size": 58379,
+      "hash": 3778349419,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAn2.ipl.zip"
+    },
+    {
+      "path": "data/maps/LA/LAs.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAs.ide.zip"
+    },
+    {
+      "path": "data/maps/LA/LAs.ipl",
+      "size": 156,
+      "hash": 2721262847,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAs.ipl.zip"
+    },
+    {
+      "path": "data/maps/LA/LAs2.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAs2.ide.zip"
+    },
+    {
+      "path": "data/maps/LA/LAs2.ipl",
+      "size": 156,
+      "hash": 2721262847,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAs2.ipl.zip"
+    },
+    {
+      "path": "data/maps/LA/LAw.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAw.ide.zip"
+    },
+    {
+      "path": "data/maps/LA/LAw.ipl",
+      "size": 156,
+      "hash": 2721262847,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAw.ipl.zip"
+    },
+    {
+      "path": "data/maps/LA/LAw2.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAw2.ide.zip"
+    },
+    {
+      "path": "data/maps/LA/LAw2.ipl",
+      "size": 156,
+      "hash": 2721262847,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAw2.ipl.zip"
+    },
+    {
+      "path": "data/maps/LA/LAxref.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LAxref.ide.zip"
+    },
+    {
+      "path": "data/maps/LA/LaWn.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LaWn.ide.zip"
+    },
+    {
+      "path": "data/maps/LA/LaWn.ipl",
+      "size": 156,
+      "hash": 2721262847,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/LaWn.ipl.zip"
+    },
+    {
+      "path": "data/maps/LA/Копия LAn.IPL",
+      "size": 44537,
+      "hash": 3148205054,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LA/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20LAn.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/china_1.IPL",
+      "size": 23642,
+      "hash": 566544829,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/china_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/china_2.IPL",
+      "size": 33784,
+      "hash": 3603681016,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/china_2.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/empty.IPL",
+      "size": 0,
+      "hash": 1,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/empty.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/heig.IPL",
+      "size": 52,
+      "hash": 3423670141,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/heig.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/Копия china_1.IPL",
+      "size": 18541,
+      "hash": 4066038722,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20china_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/Копия china_2.IPL",
+      "size": 26220,
+      "hash": 3506563558,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20china_2.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/Копия ind_1.IPL",
+      "size": 16060,
+      "hash": 1327144291,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20ind_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/Копия p_view1.IPL",
+      "size": 13549,
+      "hash": 549108228,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20p_view1.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/Копия red_l.IPL",
+      "size": 30850,
+      "hash": 1409529447,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20red_l.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/Копия saint2.IPL",
+      "size": 16097,
+      "hash": 2045764938,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20saint2.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/Копия saint3.IPL",
+      "size": 25443,
+      "hash": 1090466206,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20saint3.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/Копия saint4.IPL",
+      "size": 20916,
+      "hash": 558148248,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20saint4.IPL.zip"
+    },
+    {
+      "path": "data/maps/LIBERTY/Копия saint_m.IPL",
+      "size": 16125,
+      "hash": 2600003609,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/LIBERTY/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20saint_m.IPL.zip"
+    },
+    {
+      "path": "data/maps/MAPKIN.IDE",
+      "size": 213,
+      "hash": 314586299,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/MAPKIN.IDE.zip"
+    },
+    {
+      "path": "data/maps/MOTOR/d_towns.IPL",
+      "size": 85825,
+      "hash": 678601159,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/MOTOR/d_towns.IPL.zip"
+    },
+    {
+      "path": "data/maps/MOTOR/empty.IPL",
+      "size": 0,
+      "hash": 1,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/MOTOR/empty.IPL.zip"
+    },
+    {
+      "path": "data/maps/MOTOR/mct_1 - копия.IPL",
+      "size": 67917,
+      "hash": 2582761559,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/MOTOR/mct_1%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/d_towns - копия.IPL",
+      "size": 85825,
+      "hash": 678601159,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/d_towns%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/d_towns.IPL",
+      "size": 90562,
+      "hash": 3351335550,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/d_towns.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/d_townw - копия.IPL",
+      "size": 231890,
+      "hash": 1488196708,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/d_townw%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/docks_1 - копия.IPL",
+      "size": 68050,
+      "hash": 3646326449,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/docks_1%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/docks_1.IPL",
+      "size": 69215,
+      "hash": 2663410896,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/docks_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/empty.IPL",
+      "size": 1382,
+      "hash": 3697288914,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/empty.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/harlem - копия.IPL",
+      "size": 95228,
+      "hash": 3250529429,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/harlem%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/harlem.IPL",
+      "size": 114560,
+      "hash": 4075323842,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/harlem.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/italy.IPL",
+      "size": 89737,
+      "hash": 1242445002,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/italy.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/italy_2 - копия.IPL",
+      "size": 68265,
+      "hash": 2094285787,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/italy_2%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/italy_2.IPL",
+      "size": 73789,
+      "hash": 129076860,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/italy_2.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/italy__.IPL",
+      "size": 74275,
+      "hash": 772272542,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/italy__.IPL.zip"
+    },
+    {
+      "path": "data/maps/M_CITY/kings.IPL",
+      "size": 127022,
+      "hash": 3118923288,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/M_CITY/kings.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/EMPTY.IPL",
+      "size": 2,
+      "hash": 2490392,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/EMPTY.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/port_add.IPL",
+      "size": 7126,
+      "hash": 4015237582,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/port_add.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/portland_1.IPL",
+      "size": 35535,
+      "hash": 1091637490,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/portland_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/portland_2.IPL",
+      "size": 15233,
+      "hash": 18755452,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/portland_2.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/portland_3.IPL",
+      "size": 28350,
+      "hash": 1611584634,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/portland_3.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/portland_4.IPL",
+      "size": 48878,
+      "hash": 1891593810,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/portland_4.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/portland_5.IPL",
+      "size": 19914,
+      "hash": 2245323888,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/portland_5.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/portland_6.IPL",
+      "size": 52118,
+      "hash": 2897788580,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/portland_6.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/veg_add.IPL",
+      "size": 12193,
+      "hash": 3080818002,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/veg_add.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/Копия (2) portland_6.IPL",
+      "size": 29326,
+      "hash": 4213800504,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20%282%29%20portland_6.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/Копия portland_1.IPL",
+      "size": 23112,
+      "hash": 519978728,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/Копия portland_2.IPL",
+      "size": 9005,
+      "hash": 2931767321,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_2.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/Копия portland_3.IPL",
+      "size": 17272,
+      "hash": 1396306965,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_3.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/Копия portland_4.IPL",
+      "size": 26338,
+      "hash": 3522517134,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_4.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/Копия portland_5.IPL",
+      "size": 13438,
+      "hash": 751488304,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_5.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND/Копия portland_6.IPL",
+      "size": 28328,
+      "hash": 150645220,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_6.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/EMPTY.IPL",
+      "size": 2,
+      "hash": 2490392,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/EMPTY.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/port_add.IPL",
+      "size": 7126,
+      "hash": 4015237582,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/port_add.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/portland_1.IPL",
+      "size": 35358,
+      "hash": 489087497,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/portland_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/portland_2.IPL",
+      "size": 15238,
+      "hash": 4173541503,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/portland_2.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/portland_3.IPL",
+      "size": 28332,
+      "hash": 70045982,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/portland_3.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/portland_4.IPL",
+      "size": 48897,
+      "hash": 805532114,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/portland_4.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/portland_5.IPL",
+      "size": 19910,
+      "hash": 3702844527,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/portland_5.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/portland_6.IPL",
+      "size": 50138,
+      "hash": 1908939636,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/portland_6.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/veg_add.IPL",
+      "size": 12193,
+      "hash": 3080818002,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/veg_add.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/Копия portland_1.IPL",
+      "size": 23112,
+      "hash": 519978728,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/Копия portland_2.IPL",
+      "size": 9005,
+      "hash": 2931767321,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_2.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/Копия portland_3.IPL",
+      "size": 17272,
+      "hash": 1396306965,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_3.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/Копия portland_4.IPL",
+      "size": 26338,
+      "hash": 3522517134,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_4.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/Копия portland_5.IPL",
+      "size": 13438,
+      "hash": 751488304,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_5.IPL.zip"
+    },
+    {
+      "path": "data/maps/PORTLAND1/Копия portland_6.IPL",
+      "size": 28328,
+      "hash": 150645220,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/PORTLAND1/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_6.IPL.zip"
+    },
+    {
+      "path": "data/maps/SF/SFSe.ide",
+      "size": 30227,
+      "hash": 4260086406,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/SF/SFSe.ide.zip"
+    },
+    {
+      "path": "data/maps/SF/SFSe.ipl",
+      "size": 0,
+      "hash": 1,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/SF/SFSe.ipl.zip"
+    },
+    {
+      "path": "data/maps/SF/SFe.ide",
+      "size": 16224,
+      "hash": 3462023904,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/SF/SFe.ide.zip"
+    },
+    {
+      "path": "data/maps/SF/SFe.ipl",
+      "size": 26707,
+      "hash": 809308381,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/SF/SFe.ipl.zip"
+    },
+    {
+      "path": "data/maps/SF/SFn.ide",
+      "size": 11219,
+      "hash": 3680431797,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/SF/SFn.ide.zip"
+    },
+    {
+      "path": "data/maps/SF/SFn.ipl",
+      "size": 26201,
+      "hash": 1433560226,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/SF/SFn.ipl.zip"
+    },
+    {
+      "path": "data/maps/SF/SFs.ide",
+      "size": 18948,
+      "hash": 4047458709,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/SF/SFs.ide.zip"
+    },
+    {
+      "path": "data/maps/SF/SFs.ipl",
+      "size": 37969,
+      "hash": 2567952463,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/SF/SFs.ipl.zip"
+    },
+    {
+      "path": "data/maps/SF/SFw.ide",
+      "size": 16473,
+      "hash": 146479778,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/SF/SFw.ide.zip"
+    },
+    {
+      "path": "data/maps/SF/SFw.ipl",
+      "size": 29247,
+      "hash": 1200411350,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/SF/SFw.ipl.zip"
+    },
+    {
+      "path": "data/maps/SF/SFxref.ide",
+      "size": 4631,
+      "hash": 3448453173,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/SF/SFxref.ide.zip"
+    },
+    {
+      "path": "data/maps/STAUNTON/staunton_1.IPL",
+      "size": 37840,
+      "hash": 3305654779,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/STAUNTON/staunton_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/STAUNTON/Копия staunton_1.IPL",
+      "size": 20572,
+      "hash": 873825526,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/STAUNTON/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20staunton_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/WASTE.IDE",
+      "size": 4374,
+      "hash": 4159734931,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/WASTE.IDE.zip"
+    },
+    {
+      "path": "data/maps/azure/azure.IDE",
+      "size": 2371,
+      "hash": 1461358210,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/azure/azure.IDE.zip"
+    },
+    {
+      "path": "data/maps/azure/map_1.IPL",
+      "size": 3143,
+      "hash": 515747274,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/azure/map_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/basic/basicmap.ide",
+      "size": 212,
+      "hash": 621690443,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/basic/basicmap.ide.zip"
+    },
+    {
+      "path": "data/maps/basic/basicmap.img",
+      "size": 1175552,
+      "hash": 957431583,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/basic/basicmap.img.zip"
+    },
+    {
+      "path": "data/maps/basic/basicmap.ipl",
+      "size": 326,
+      "hash": 943608793,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/basic/basicmap.ipl.zip"
+    },
+    {
+      "path": "data/maps/beach/Nbeach.ide",
+      "size": 7332,
+      "hash": 3824564615,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Nbeach.ide.zip"
+    },
+    {
+      "path": "data/maps/beach/Nbeach.ipl",
+      "size": 12941,
+      "hash": 2974196647,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Nbeach.ipl.zip"
+    },
+    {
+      "path": "data/maps/beach/Nbeachbt.ide",
+      "size": 5510,
+      "hash": 1275948895,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Nbeachbt.ide.zip"
+    },
+    {
+      "path": "data/maps/beach/Nbeachbt.ipl",
+      "size": 9311,
+      "hash": 30203488,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Nbeachbt.ipl.zip"
+    },
+    {
+      "path": "data/maps/beach/Nbeachw.ide",
+      "size": 4955,
+      "hash": 2293480149,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Nbeachw.ide.zip"
+    },
+    {
+      "path": "data/maps/beach/Nbeachw.ipl",
+      "size": 8805,
+      "hash": 621238797,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Nbeachw.ipl.zip"
+    },
+    {
+      "path": "data/maps/beach/Oceandn.ide",
+      "size": 6933,
+      "hash": 1253047589,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Oceandn.ide.zip"
+    },
+    {
+      "path": "data/maps/beach/Oceandn.ipl",
+      "size": 12105,
+      "hash": 127932657,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Oceandn.ipl.zip"
+    },
+    {
+      "path": "data/maps/beach/Oceandrv.ide",
+      "size": 4554,
+      "hash": 1985766991,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Oceandrv.ide.zip"
+    },
+    {
+      "path": "data/maps/beach/Oceandrv.ipl",
+      "size": 7875,
+      "hash": 3348474246,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Oceandrv.ipl.zip"
+    },
+    {
+      "path": "data/maps/beach/Washintn.ide",
+      "size": 7814,
+      "hash": 2932890227,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Washintn.ide.zip"
+    },
+    {
+      "path": "data/maps/beach/Washintn.ipl",
+      "size": 13484,
+      "hash": 3219748069,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Washintn.ipl.zip"
+    },
+    {
+      "path": "data/maps/beach/Washints.ide",
+      "size": 8870,
+      "hash": 1648731606,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Washints.ide.zip"
+    },
+    {
+      "path": "data/maps/beach/Washints.ipl",
+      "size": 15303,
+      "hash": 1272250414,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach/Washints.ipl.zip"
+    },
+    {
+      "path": "data/maps/beach.ide",
+      "size": 97942,
+      "hash": 1033909498,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach.ide.zip"
+    },
+    {
+      "path": "data/maps/beach.ipl",
+      "size": 208627,
+      "hash": 322630670,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach.ipl.zip"
+    },
+    {
+      "path": "data/maps/beach2.ipl",
+      "size": 142752,
+      "hash": 1968645238,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/beach2.ipl.zip"
+    },
+    {
+      "path": "data/maps/bestmap.IPL",
+      "size": 50946,
+      "hash": 4165948859,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/bestmap.IPL.zip"
+    },
+    {
+      "path": "data/maps/bestpalm.IPL",
+      "size": 6284,
+      "hash": 188729363,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/bestpalm.IPL.zip"
+    },
+    {
+      "path": "data/maps/bestprops.IPL",
+      "size": 12603,
+      "hash": 108836597,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/bestprops.IPL.zip"
+    },
+    {
+      "path": "data/maps/china - копия.IPL",
+      "size": 146502,
+      "hash": 267062904,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/china%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/coms.IDE",
+      "size": 2284,
+      "hash": 2863199616,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/coms.IDE.zip"
+    },
+    {
+      "path": "data/maps/cou.IPL",
+      "size": 3172,
+      "hash": 2966582946,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/cou.IPL.zip"
+    },
+    {
+      "path": "data/maps/count.IPL",
+      "size": 11522,
+      "hash": 681098305,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/count.IPL.zip"
+    },
+    {
+      "path": "data/maps/country/countn2.ide",
+      "size": 66,
+      "hash": 1970016834,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/country/countn2.ide.zip"
+    },
+    {
+      "path": "data/maps/country/countn2.ipl",
+      "size": 150,
+      "hash": 2496801978,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/country/countn2.ipl.zip"
+    },
+    {
+      "path": "data/maps/country/countryN.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/country/countryN.ide.zip"
+    },
+    {
+      "path": "data/maps/country/countryN.ipl",
+      "size": 150,
+      "hash": 2496801978,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/country/countryN.ipl.zip"
+    },
+    {
+      "path": "data/maps/country/countryS.ide",
+      "size": 70,
+      "hash": 3203011184,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/country/countryS.ide.zip"
+    },
+    {
+      "path": "data/maps/country/countryS.ipl",
+      "size": 150,
+      "hash": 2496801978,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/country/countryS.ipl.zip"
+    },
+    {
+      "path": "data/maps/country/countryW.ide",
+      "size": 70,
+      "hash": 3203011184,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/country/countryW.ide.zip"
+    },
+    {
+      "path": "data/maps/country/countrye.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/country/countrye.ide.zip"
+    },
+    {
+      "path": "data/maps/country/countrye.ipl",
+      "size": 150,
+      "hash": 2496801978,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/country/countrye.ipl.zip"
+    },
+    {
+      "path": "data/maps/country/countryw.ipl",
+      "size": 150,
+      "hash": 2496801978,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/country/countryw.ipl.zip"
+    },
+    {
+      "path": "data/maps/country/counxref.ide",
+      "size": 967,
+      "hash": 2238323760,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/country/counxref.ide.zip"
+    },
+    {
+      "path": "data/maps/cull.ipl",
+      "size": 165,
+      "hash": 2409378032,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/cull.ipl.zip"
+    },
+    {
+      "path": "data/maps/d_townw.IPL",
+      "size": 257313,
+      "hash": 3214174002,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/d_townw.IPL.zip"
+    },
+    {
+      "path": "data/maps/generic/barriers.ide",
+      "size": 1437,
+      "hash": 1054057802,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/generic/barriers.ide.zip"
+    },
+    {
+      "path": "data/maps/generic/dynamic.ide",
+      "size": 4611,
+      "hash": 1318453485,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/generic/dynamic.ide.zip"
+    },
+    {
+      "path": "data/maps/generic/dynamic2.ide",
+      "size": 10504,
+      "hash": 579373282,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/generic/dynamic2.ide.zip"
+    },
+    {
+      "path": "data/maps/generic/multiobj.IDE",
+      "size": 5024,
+      "hash": 997108279,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/generic/multiobj.IDE.zip"
+    },
+    {
+      "path": "data/maps/generic/procobj.ide",
+      "size": 4762,
+      "hash": 3289676829,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/generic/procobj.ide.zip"
+    },
+    {
+      "path": "data/maps/generic/vegepart.IDE",
+      "size": 8082,
+      "hash": 2985767431,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/generic/vegepart.IDE.zip"
+    },
+    {
+      "path": "data/maps/gj.IPL",
+      "size": 113,
+      "hash": 2037325009,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/gj.IPL.zip"
+    },
+    {
+      "path": "data/maps/gta5.IDE",
+      "size": 214,
+      "hash": 3726851728,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/gta5.IDE.zip"
+    },
+    {
+      "path": "data/maps/gta5.IPL",
+      "size": 180,
+      "hash": 250752280,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/gta5.IPL.zip"
+    },
+    {
+      "path": "data/maps/harwoo.IPL",
+      "size": 13514,
+      "hash": 1259430490,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/harwoo.IPL.zip"
+    },
+    {
+      "path": "data/maps/hoboken.IPL",
+      "size": 23833,
+      "hash": 2485438437,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/hoboken.IPL.zip"
+    },
+    {
+      "path": "data/maps/ind_1.IPL",
+      "size": 25495,
+      "hash": 1281942466,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/ind_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/ind_2.IPL",
+      "size": 52,
+      "hash": 3423670141,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/ind_2.IPL.zip"
+    },
+    {
+      "path": "data/maps/ind_3.IPL",
+      "size": 12498,
+      "hash": 1871166466,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/ind_3.IPL.zip"
+    },
+    {
+      "path": "data/maps/int.IDE",
+      "size": 348,
+      "hash": 232283648,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/int.IDE.zip"
+    },
+    {
+      "path": "data/maps/int.IPL",
+      "size": 444,
+      "hash": 2782813442,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/int.IPL.zip"
+    },
+    {
+      "path": "data/maps/intCS.ipl",
+      "size": 221,
+      "hash": 3234933660,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/intCS.ipl.zip"
+    },
+    {
+      "path": "data/maps/intdiaz.ipl",
+      "size": 226,
+      "hash": 2591435986,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/intdiaz.ipl.zip"
+    },
+    {
+      "path": "data/maps/interior/gen_int1.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/gen_int1.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/gen_int1.ipl",
+      "size": 154,
+      "hash": 4139789256,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/gen_int1.ipl.zip"
+    },
+    {
+      "path": "data/maps/interior/gen_int2.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/gen_int2.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/gen_int2.ipl",
+      "size": 154,
+      "hash": 4139789256,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/gen_int2.ipl.zip"
+    },
+    {
+      "path": "data/maps/interior/gen_int3.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/gen_int3.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/gen_int3.ipl",
+      "size": 154,
+      "hash": 4139789256,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/gen_int3.ipl.zip"
+    },
+    {
+      "path": "data/maps/interior/gen_int4.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/gen_int4.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/gen_int4.ipl",
+      "size": 154,
+      "hash": 4139789256,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/gen_int4.ipl.zip"
+    },
+    {
+      "path": "data/maps/interior/gen_int5.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/gen_int5.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/gen_int5.ipl",
+      "size": 154,
+      "hash": 4139789256,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/gen_int5.ipl.zip"
+    },
+    {
+      "path": "data/maps/interior/gen_intb.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/gen_intb.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/gen_intb.ipl",
+      "size": 154,
+      "hash": 4139789256,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/gen_intb.ipl.zip"
+    },
+    {
+      "path": "data/maps/interior/int_LA.ide",
+      "size": 256,
+      "hash": 3192210004,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/int_LA.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/int_LA.ipl",
+      "size": 726,
+      "hash": 1455658061,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/int_LA.ipl.zip"
+    },
+    {
+      "path": "data/maps/interior/int_SF.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/int_SF.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/int_SF.ipl",
+      "size": 154,
+      "hash": 4139789256,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/int_SF.ipl.zip"
+    },
+    {
+      "path": "data/maps/interior/int_cont.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/int_cont.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/int_cont.ipl",
+      "size": 154,
+      "hash": 4139789256,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/int_cont.ipl.zip"
+    },
+    {
+      "path": "data/maps/interior/int_veg.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/int_veg.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/int_veg.ipl",
+      "size": 154,
+      "hash": 4139789256,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/int_veg.ipl.zip"
+    },
+    {
+      "path": "data/maps/interior/propext.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/propext.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/props.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/props.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/props2.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/props2.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/savehous.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/savehous.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/savehous.ipl",
+      "size": 154,
+      "hash": 4139789256,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/savehous.ipl.zip"
+    },
+    {
+      "path": "data/maps/interior/stadint.ide",
+      "size": 68,
+      "hash": 2585006681,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/stadint.ide.zip"
+    },
+    {
+      "path": "data/maps/interior/stadint.ipl",
+      "size": 154,
+      "hash": 4139789256,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/interior/stadint.ipl.zip"
+    },
+    {
+      "path": "data/maps/intex.IPL",
+      "size": 3485,
+      "hash": 3698439600,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/intex.IPL.zip"
+    },
+    {
+      "path": "data/maps/intlu.ipl",
+      "size": 229,
+      "hash": 595799331,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/intlu.ipl.zip"
+    },
+    {
+      "path": "data/maps/ints.IDE",
+      "size": 1473,
+      "hash": 1392211805,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/ints.IDE.zip"
+    },
+    {
+      "path": "data/maps/ints_1.IPL",
+      "size": 53688,
+      "hash": 491179718,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/ints_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/intumderto.ipl",
+      "size": 227,
+      "hash": 2873568486,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/intumderto.ipl.zip"
+    },
+    {
+      "path": "data/maps/intvic1.ipl",
+      "size": 229,
+      "hash": 765144420,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/intvic1.ipl.zip"
+    },
+    {
+      "path": "data/maps/ipl/ints_1 - копия.IPL",
+      "size": 55720,
+      "hash": 872500265,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/ipl/ints_1%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/islands/Bridge.ide",
+      "size": 900,
+      "hash": 1795097800,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/islands/Bridge.ide.zip"
+    },
+    {
+      "path": "data/maps/islands/Bridge.ipl",
+      "size": 1564,
+      "hash": 1862748855,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/islands/Bridge.ipl.zip"
+    },
+    {
+      "path": "data/maps/islands/Cisland.ide",
+      "size": 5921,
+      "hash": 2120407476,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/islands/Cisland.ide.zip"
+    },
+    {
+      "path": "data/maps/islands/Cisland.ipl",
+      "size": 10408,
+      "hash": 1989587640,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/islands/Cisland.ipl.zip"
+    },
+    {
+      "path": "data/maps/islands/Golf.ide",
+      "size": 2690,
+      "hash": 3241013674,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/islands/Golf.ide.zip"
+    },
+    {
+      "path": "data/maps/islands/Golf.ipl",
+      "size": 5164,
+      "hash": 3078695489,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/islands/Golf.ipl.zip"
+    },
+    {
+      "path": "data/maps/islands/Islandsf.ide",
+      "size": 1922,
+      "hash": 1258702250,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/islands/Islandsf.ide.zip"
+    },
+    {
+      "path": "data/maps/islands/Islandsf.ipl",
+      "size": 3208,
+      "hash": 2290267849,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/islands/Islandsf.ipl.zip"
+    },
+    {
+      "path": "data/maps/islands/Mansion.ide",
+      "size": 3866,
+      "hash": 35490928,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/islands/Mansion.ide.zip"
+    },
+    {
+      "path": "data/maps/islands/Mansion.ipl",
+      "size": 6703,
+      "hash": 1084137796,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/islands/Mansion.ipl.zip"
+    },
+    {
+      "path": "data/maps/islands/Starisl.ide",
+      "size": 3011,
+      "hash": 2765197385,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/islands/Starisl.ide.zip"
+    },
+    {
+      "path": "data/maps/islands/Starisl.ipl",
+      "size": 5307,
+      "hash": 1772582581,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/islands/Starisl.ipl.zip"
+    },
+    {
+      "path": "data/maps/lands.IDE",
+      "size": 14601,
+      "hash": 4076869413,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/lands.IDE.zip"
+    },
+    {
+      "path": "data/maps/leveldes/leveldes.ide",
+      "size": 360,
+      "hash": 3124979409,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/leveldes/leveldes.ide.zip"
+    },
+    {
+      "path": "data/maps/leveldes/leveldes.ipl",
+      "size": 165,
+      "hash": 2202546392,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/leveldes/leveldes.ipl.zip"
+    },
+    {
+      "path": "data/maps/leveldes/levelmap.ide",
+      "size": 3194,
+      "hash": 3817176945,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/leveldes/levelmap.ide.zip"
+    },
+    {
+      "path": "data/maps/leveldes/levelmap.ipl",
+      "size": 154,
+      "hash": 2054893004,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/leveldes/levelmap.ipl.zip"
+    },
+    {
+      "path": "data/maps/leveldes/levelxre.IDE",
+      "size": 9901,
+      "hash": 2727743106,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/leveldes/levelxre.IDE.zip"
+    },
+    {
+      "path": "data/maps/leveldes/seabed - копия.ipl",
+      "size": 33482,
+      "hash": 3504424405,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/leveldes/seabed%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.ipl.zip"
+    },
+    {
+      "path": "data/maps/leveldes/seabed.ide",
+      "size": 12039,
+      "hash": 1740749064,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/leveldes/seabed.ide.zip"
+    },
+    {
+      "path": "data/maps/leveldes/seabed.ipl",
+      "size": 34128,
+      "hash": 1006093313,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/leveldes/seabed.ipl.zip"
+    },
+    {
+      "path": "data/maps/lods.IPL",
+      "size": 74189,
+      "hash": 1126107253,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/lods.IPL.zip"
+    },
+    {
+      "path": "data/maps/mainla.ide",
+      "size": 101610,
+      "hash": 2528769122,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainla.ide.zip"
+    },
+    {
+      "path": "data/maps/mainla.ipl",
+      "size": 374029,
+      "hash": 1393333577,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainla.ipl.zip"
+    },
+    {
+      "path": "data/maps/mainla2.ipl",
+      "size": 114854,
+      "hash": 886433567,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainla2.ipl.zip"
+    },
+    {
+      "path": "data/maps/mainland/Airport.ide",
+      "size": 6703,
+      "hash": 2711086859,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Airport.ide.zip"
+    },
+    {
+      "path": "data/maps/mainland/Airport.ipl",
+      "size": 12550,
+      "hash": 1902740442,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Airport.ipl.zip"
+    },
+    {
+      "path": "data/maps/mainland/Airportn.ide",
+      "size": 3379,
+      "hash": 3142975255,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Airportn.ide.zip"
+    },
+    {
+      "path": "data/maps/mainland/Airportn.ipl",
+      "size": 5944,
+      "hash": 2709455862,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Airportn.ipl.zip"
+    },
+    {
+      "path": "data/maps/mainland/Docks.ide",
+      "size": 5693,
+      "hash": 3810221855,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Docks.ide.zip"
+    },
+    {
+      "path": "data/maps/mainland/Docks.ipl",
+      "size": 11534,
+      "hash": 3073337310,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Docks.ipl.zip"
+    },
+    {
+      "path": "data/maps/mainland/Downtown.ide",
+      "size": 6566,
+      "hash": 1762850949,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Downtown.ide.zip"
+    },
+    {
+      "path": "data/maps/mainland/Downtown.ipl",
+      "size": 10939,
+      "hash": 432889408,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Downtown.ipl.zip"
+    },
+    {
+      "path": "data/maps/mainland/Downtows.ide",
+      "size": 3802,
+      "hash": 3137839774,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Downtows.ide.zip"
+    },
+    {
+      "path": "data/maps/mainland/Downtows.ipl",
+      "size": 6333,
+      "hash": 2150396210,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Downtows.ipl.zip"
+    },
+    {
+      "path": "data/maps/mainland/Haiti.ide",
+      "size": 3319,
+      "hash": 4216108812,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Haiti.ide.zip"
+    },
+    {
+      "path": "data/maps/mainland/Haiti.ipl",
+      "size": 6246,
+      "hash": 1011619579,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Haiti.ipl.zip"
+    },
+    {
+      "path": "data/maps/mainland/Haitin.ide",
+      "size": 3351,
+      "hash": 3379156538,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Haitin.ide.zip"
+    },
+    {
+      "path": "data/maps/mainland/Haitin.ipl",
+      "size": 6123,
+      "hash": 1158615365,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Haitin.ipl.zip"
+    },
+    {
+      "path": "data/maps/mainland/Littleha.ide",
+      "size": 8006,
+      "hash": 3565845766,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Littleha.ide.zip"
+    },
+    {
+      "path": "data/maps/mainland/Littleha.ipl",
+      "size": 14144,
+      "hash": 3963286362,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mainland/Littleha.ipl.zip"
+    },
+    {
+      "path": "data/maps/mct.IDE",
+      "size": 18929,
+      "hash": 3725065903,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct.IDE.zip"
+    },
+    {
+      "path": "data/maps/mct_1.IPL",
+      "size": 77103,
+      "hash": 2670325493,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_1x.IPL",
+      "size": 67917,
+      "hash": 2582761559,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_1x.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_2 - копия.IPL",
+      "size": 78234,
+      "hash": 982447665,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_2%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_2.IPL",
+      "size": 88211,
+      "hash": 2603661358,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_2.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_3 - копия.IPL",
+      "size": 78537,
+      "hash": 699865794,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_3%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_3.IPL",
+      "size": 86758,
+      "hash": 1224704302,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_3.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_4 - копия.IPL",
+      "size": 130032,
+      "hash": 4183908680,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_4%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_4.IPL",
+      "size": 144102,
+      "hash": 1338803624,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_4.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_5 - копия.IPL",
+      "size": 49942,
+      "hash": 487373368,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_5%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_5.IPL",
+      "size": 57159,
+      "hash": 3808584696,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_5.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_6 - копия.IPL",
+      "size": 113912,
+      "hash": 226410535,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_6%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_6.IPL",
+      "size": 133493,
+      "hash": 3614508018,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_6.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_7 - копия (2).IPL",
+      "size": 119194,
+      "hash": 1482452243,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_7%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%20%282%29.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_7.IPL",
+      "size": 255876,
+      "hash": 2695822380,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_7.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_7_.IPL",
+      "size": 205377,
+      "hash": 1637188634,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_7_.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_8 - копия.IPL",
+      "size": 83568,
+      "hash": 3020122186,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_8%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/mct_8.IPL",
+      "size": 31798,
+      "hash": 708540346,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/mct_8.IPL.zip"
+    },
+    {
+      "path": "data/maps/nature.IDE",
+      "size": 3271,
+      "hash": 625185736,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/nature.IDE.zip"
+    },
+    {
+      "path": "data/maps/objects.IDE",
+      "size": 9042,
+      "hash": 189171850,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/objects.IDE.zip"
+    },
+    {
+      "path": "data/maps/occlu.ipl",
+      "size": 11,
+      "hash": 354484999,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/occlu.ipl.zip"
+    },
+    {
+      "path": "data/maps/occluLA.ipl",
+      "size": 11,
+      "hash": 354484999,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/occluLA.ipl.zip"
+    },
+    {
+      "path": "data/maps/occluint.ipl",
+      "size": 11,
+      "hash": 354484999,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/occluint.ipl.zip"
+    },
+    {
+      "path": "data/maps/occlusf.ipl",
+      "size": 11,
+      "hash": 354484999,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/occlusf.ipl.zip"
+    },
+    {
+      "path": "data/maps/occluveg.ipl",
+      "size": 11,
+      "hash": 354484999,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/occluveg.ipl.zip"
+    },
+    {
+      "path": "data/maps/p_view1.IPL",
+      "size": 18699,
+      "hash": 2657007363,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/p_view1.IPL.zip"
+    },
+    {
+      "path": "data/maps/palm.IPL",
+      "size": 3909,
+      "hash": 1170871667,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/palm.IPL.zip"
+    },
+    {
+      "path": "data/maps/palm_1.IPL",
+      "size": 16023,
+      "hash": 2743032496,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/palm_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/paths.img",
+      "size": 135168,
+      "hash": 4049837954,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/paths.img.zip"
+    },
+    {
+      "path": "data/maps/paths.ipl",
+      "size": 2658607,
+      "hash": 1496946184,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/paths.ipl.zip"
+    },
+    {
+      "path": "data/maps/paths2.ipl",
+      "size": 2292241,
+      "hash": 3197478829,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/paths2.ipl.zip"
+    },
+    {
+      "path": "data/maps/paths3.ipl",
+      "size": 2428066,
+      "hash": 3812695590,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/paths3.ipl.zip"
+    },
+    {
+      "path": "data/maps/paths4.ipl",
+      "size": 253014,
+      "hash": 4036119776,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/paths4.ipl.zip"
+    },
+    {
+      "path": "data/maps/paths5.ipl",
+      "size": 457678,
+      "hash": 3652487602,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/paths5.ipl.zip"
+    },
+    {
+      "path": "data/maps/pine_1.IPL",
+      "size": 1849,
+      "hash": 1678217012,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/pine_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/portland - копия.IPL",
+      "size": 94429,
+      "hash": 3026823045,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/portland%20-%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.IPL.zip"
+    },
+    {
+      "path": "data/maps/portland.IPL",
+      "size": 117116,
+      "hash": 1123240496,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/portland.IPL.zip"
+    },
+    {
+      "path": "data/maps/props.IPL",
+      "size": 11206,
+      "hash": 3341589060,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/props.IPL.zip"
+    },
+    {
+      "path": "data/maps/props_1.IPL",
+      "size": 20061,
+      "hash": 1125606700,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/props_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/red_l.IPL",
+      "size": 48718,
+      "hash": 2674895745,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/red_l.IPL.zip"
+    },
+    {
+      "path": "data/maps/rip1.1.ide",
+      "size": 29609,
+      "hash": 3533344519,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip1.1.ide.zip"
+    },
+    {
+      "path": "data/maps/rip1.1.ipl",
+      "size": 63264,
+      "hash": 3445235484,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip1.1.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip1.2.ide",
+      "size": 79502,
+      "hash": 326314192,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip1.2.ide.zip"
+    },
+    {
+      "path": "data/maps/rip1.2.ipl",
+      "size": 176452,
+      "hash": 2253314229,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip1.2.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip1.3.ide",
+      "size": 36037,
+      "hash": 833019219,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip1.3.ide.zip"
+    },
+    {
+      "path": "data/maps/rip1.3.ipl",
+      "size": 154635,
+      "hash": 1177483999,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip1.3.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip1.ide",
+      "size": 32559,
+      "hash": 1028048324,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip1.ide.zip"
+    },
+    {
+      "path": "data/maps/rip1.ipl",
+      "size": 84252,
+      "hash": 3111066616,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip1.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip10 (Copy).ipl.txt",
+      "size": 64021,
+      "hash": 1530843602,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip10%20%28Copy%29.ipl.txt.zip"
+    },
+    {
+      "path": "data/maps/rip10.ide",
+      "size": 21990,
+      "hash": 1190392475,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip10.ide.zip"
+    },
+    {
+      "path": "data/maps/rip10.ipl",
+      "size": 64246,
+      "hash": 3851811545,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip10.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip11.ide",
+      "size": 17819,
+      "hash": 4168803462,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip11.ide.zip"
+    },
+    {
+      "path": "data/maps/rip11.ipl",
+      "size": 61597,
+      "hash": 2494395640,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip11.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip12.ide",
+      "size": 7354,
+      "hash": 3477628031,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip12.ide.zip"
+    },
+    {
+      "path": "data/maps/rip12.ipl",
+      "size": 17939,
+      "hash": 1688896714,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip12.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip13.ide",
+      "size": 466,
+      "hash": 316766359,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip13.ide.zip"
+    },
+    {
+      "path": "data/maps/rip13.ipl",
+      "size": 106224,
+      "hash": 3724069226,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip13.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip14.ipl",
+      "size": 10117,
+      "hash": 984240775,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip14.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip2.ide",
+      "size": 17479,
+      "hash": 2619194409,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip2.ide.zip"
+    },
+    {
+      "path": "data/maps/rip2.ipl",
+      "size": 42393,
+      "hash": 2588544920,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip2.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip3.ide",
+      "size": 17218,
+      "hash": 3728717429,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip3.ide.zip"
+    },
+    {
+      "path": "data/maps/rip3.ipl",
+      "size": 37817,
+      "hash": 1413284671,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip3.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip4.ide",
+      "size": 5544,
+      "hash": 3395993946,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip4.ide.zip"
+    },
+    {
+      "path": "data/maps/rip4.ipl",
+      "size": 11745,
+      "hash": 2152183736,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip4.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip5.ide",
+      "size": 4164,
+      "hash": 435326311,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip5.ide.zip"
+    },
+    {
+      "path": "data/maps/rip5.ipl",
+      "size": 9082,
+      "hash": 1366866020,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip5.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip6.ide",
+      "size": 6303,
+      "hash": 1724410377,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip6.ide.zip"
+    },
+    {
+      "path": "data/maps/rip6.ipl",
+      "size": 14639,
+      "hash": 1899617523,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip6.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip7.ide",
+      "size": 8122,
+      "hash": 2733897438,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip7.ide.zip"
+    },
+    {
+      "path": "data/maps/rip7.ipl",
+      "size": 17444,
+      "hash": 237235008,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip7.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip8.ide",
+      "size": 938,
+      "hash": 3575632076,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip8.ide.zip"
+    },
+    {
+      "path": "data/maps/rip8.ipl",
+      "size": 1947,
+      "hash": 1157002479,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip8.ipl.zip"
+    },
+    {
+      "path": "data/maps/rip9.ide",
+      "size": 13737,
+      "hash": 824426079,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip9.ide.zip"
+    },
+    {
+      "path": "data/maps/rip9.ipl",
+      "size": 29671,
+      "hash": 1334246689,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rip9.ipl.zip"
+    },
+    {
+      "path": "data/maps/road.IDE",
+      "size": 3675,
+      "hash": 3868780857,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/road.IDE.zip"
+    },
+    {
+      "path": "data/maps/rus.IPL",
+      "size": 34140,
+      "hash": 4165741305,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/rus.IPL.zip"
+    },
+    {
+      "path": "data/maps/sabway/sabway.IPL",
+      "size": 2637,
+      "hash": 1726995496,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/sabway/sabway.IPL.zip"
+    },
+    {
+      "path": "data/maps/sabway/sabway.ide",
+      "size": 96,
+      "hash": 3890944443,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/sabway/sabway.ide.zip"
+    },
+    {
+      "path": "data/maps/saint2.IPL",
+      "size": 23036,
+      "hash": 3517334564,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/saint2.IPL.zip"
+    },
+    {
+      "path": "data/maps/saint3.IPL",
+      "size": 38285,
+      "hash": 4195568579,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/saint3.IPL.zip"
+    },
+    {
+      "path": "data/maps/saint4.IPL",
+      "size": 29711,
+      "hash": 1775467635,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/saint4.IPL.zip"
+    },
+    {
+      "path": "data/maps/saint_m.IPL",
+      "size": 22985,
+      "hash": 4014354925,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/saint_m.IPL.zip"
+    },
+    {
+      "path": "data/maps/shts.IDE",
+      "size": 14579,
+      "hash": 990164275,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/shts.IDE.zip"
+    },
+    {
+      "path": "data/maps/startland/automspr.IPL",
+      "size": 38729,
+      "hash": 2917513060,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/startland/automspr.IPL.zip"
+    },
+    {
+      "path": "data/maps/startland/startland.IDE",
+      "size": 6468,
+      "hash": 227385470,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/startland/startland.IDE.zip"
+    },
+    {
+      "path": "data/maps/startland/startland.IPL",
+      "size": 328167,
+      "hash": 135969966,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/startland/startland.IPL.zip"
+    },
+    {
+      "path": "data/maps/startland2/automspr2.IPL",
+      "size": 45825,
+      "hash": 2185711560,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/startland2/automspr2.IPL.zip"
+    },
+    {
+      "path": "data/maps/startland2/startland2.IDE",
+      "size": 7536,
+      "hash": 845328364,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/startland2/startland2.IDE.zip"
+    },
+    {
+      "path": "data/maps/startland2/startland2.IPL",
+      "size": 341214,
+      "hash": 3002514688,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/startland2/startland2.IPL.zip"
+    },
+    {
+      "path": "data/maps/startland3/automspr3.IPL",
+      "size": 48587,
+      "hash": 644513625,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/startland3/automspr3.IPL.zip"
+    },
+    {
+      "path": "data/maps/startland3/startland3.IDE",
+      "size": 5963,
+      "hash": 198840936,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/startland3/startland3.IDE.zip"
+    },
+    {
+      "path": "data/maps/startland3/startland3.IPL",
+      "size": 239326,
+      "hash": 249877669,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/startland3/startland3.IPL.zip"
+    },
+    {
+      "path": "data/maps/startland4/automspr4.IPL",
+      "size": 813,
+      "hash": 391859700,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/startland4/automspr4.IPL.zip"
+    },
+    {
+      "path": "data/maps/startland4/startland4.IDE",
+      "size": 1280,
+      "hash": 1048530771,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/startland4/startland4.IDE.zip"
+    },
+    {
+      "path": "data/maps/startland4/startland4.IPL",
+      "size": 48849,
+      "hash": 1456364869,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/startland4/startland4.IPL.zip"
+    },
+    {
+      "path": "data/maps/staunton_1.IPL",
+      "size": 37840,
+      "hash": 3305654779,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/staunton_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/sub.IPL",
+      "size": 614,
+      "hash": 3133438980,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/sub.IPL.zip"
+    },
+    {
+      "path": "data/maps/t.txd",
+      "size": 358400,
+      "hash": 3383167944,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/t.txd.zip"
+    },
+    {
+      "path": "data/maps/testbed.ide",
+      "size": 54,
+      "hash": 2950303262,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/testbed.ide.zip"
+    },
+    {
+      "path": "data/maps/testbed.ipl",
+      "size": 203,
+      "hash": 2329815464,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/testbed.ipl.zip"
+    },
+    {
+      "path": "data/maps/tree.IPL",
+      "size": 3907,
+      "hash": 3779864627,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/tree.IPL.zip"
+    },
+    {
+      "path": "data/maps/trees_map.ide",
+      "size": 2919,
+      "hash": 2788116687,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/trees_map.ide.zip"
+    },
+    {
+      "path": "data/maps/trees_map.ipl",
+      "size": 261224,
+      "hash": 3087692985,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/trees_map.ipl.zip"
+    },
+    {
+      "path": "data/maps/tunnels.ipl",
+      "size": 163,
+      "hash": 4059836392,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/tunnels.ipl.zip"
+    },
+    {
+      "path": "data/maps/txd.ide",
+      "size": 323,
+      "hash": 1736143886,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/txd.ide.zip"
+    },
+    {
+      "path": "data/maps/ty.IPL",
+      "size": 0,
+      "hash": 1,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/ty.IPL.zip"
+    },
+    {
+      "path": "data/maps/vcsa.IDE",
+      "size": 1766,
+      "hash": 300671228,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vcsa.IDE.zip"
+    },
+    {
+      "path": "data/maps/vcsa.IPL",
+      "size": 312,
+      "hash": 1049772258,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vcsa.IPL.zip"
+    },
+    {
+      "path": "data/maps/vcsa_map_1.IPL",
+      "size": 104,
+      "hash": 456464592,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vcsa_map_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/vegas/VegasN.ide",
+      "size": 64,
+      "hash": 1358041643,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vegas/VegasN.ide.zip"
+    },
+    {
+      "path": "data/maps/vegas/VegasS.ide",
+      "size": 64,
+      "hash": 1358041643,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vegas/VegasS.ide.zip"
+    },
+    {
+      "path": "data/maps/vegas/VegasW.ide",
+      "size": 64,
+      "hash": 1358041643,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vegas/VegasW.ide.zip"
+    },
+    {
+      "path": "data/maps/vegas/vegasE.ide",
+      "size": 66,
+      "hash": 1970016834,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vegas/vegasE.ide.zip"
+    },
+    {
+      "path": "data/maps/vegas/vegasE.ipl",
+      "size": 152,
+      "hash": 3999935697,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vegas/vegasE.ipl.zip"
+    },
+    {
+      "path": "data/maps/vegas/vegasN.ipl",
+      "size": 156,
+      "hash": 2721262847,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vegas/vegasN.ipl.zip"
+    },
+    {
+      "path": "data/maps/vegas/vegasS.ipl",
+      "size": 156,
+      "hash": 2721262847,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vegas/vegasS.ipl.zip"
+    },
+    {
+      "path": "data/maps/vegas/vegasW.ipl",
+      "size": 154,
+      "hash": 1212099816,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vegas/vegasW.ipl.zip"
+    },
+    {
+      "path": "data/maps/vegas/vegaxref.ide",
+      "size": 64,
+      "hash": 1358041643,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vegas/vegaxref.ide.zip"
+    },
+    {
+      "path": "data/maps/vegas/vegaxref.ipl",
+      "size": 154,
+      "hash": 1212099816,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/vegas/vegaxref.ipl.zip"
+    },
+    {
+      "path": "data/maps/veh_mods/veh_mods.ide",
+      "size": 7323,
+      "hash": 2544542683,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/veh_mods/veh_mods.ide.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/EMPTY.IPL",
+      "size": 2,
+      "hash": 2490392,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/EMPTY.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/port_add.IPL",
+      "size": 7126,
+      "hash": 4015237582,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/port_add.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/portland_1.IPL",
+      "size": 35357,
+      "hash": 661185053,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/portland_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/portland_2.IPL",
+      "size": 15233,
+      "hash": 1854287781,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/portland_2.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/portland_3.IPL",
+      "size": 28370,
+      "hash": 1585109070,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/portland_3.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/portland_4.IPL",
+      "size": 48878,
+      "hash": 1607691978,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/portland_4.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/portland_5.IPL",
+      "size": 19908,
+      "hash": 3854298193,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/portland_5.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/portland_6.IPL",
+      "size": 50117,
+      "hash": 1898846158,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/portland_6.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/veg_add.IPL",
+      "size": 12193,
+      "hash": 3080818002,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/veg_add.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/Копия portland_1.IPL",
+      "size": 23112,
+      "hash": 519978728,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_1.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/Копия portland_2.IPL",
+      "size": 9005,
+      "hash": 2931767321,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_2.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/Копия portland_3.IPL",
+      "size": 17272,
+      "hash": 1396306965,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_3.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/Копия portland_4.IPL",
+      "size": 26338,
+      "hash": 3522517134,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_4.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/Копия portland_5.IPL",
+      "size": 13438,
+      "hash": 751488304,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_5.IPL.zip"
+    },
+    {
+      "path": "data/maps/Копия PORTLAND/Копия portland_6.IPL",
+      "size": 28328,
+      "hash": 150645220,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/maps/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20PORTLAND/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F%20portland_6.IPL.zip"
+    },
+    {
+      "path": "data/melee.dat",
+      "size": 6306,
+      "hash": 261426374,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/melee.dat.zip"
+    },
+    {
+      "path": "data/object.dat",
+      "size": 128572,
+      "hash": 1163931589,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/object.dat.zip"
+    },
+    {
+      "path": "data/paths/ROADBLOX.DAT",
+      "size": 1304,
+      "hash": 1325771686,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/paths/ROADBLOX.DAT.zip"
+    },
+    {
+      "path": "data/paths/carrec.img",
+      "size": 2357248,
+      "hash": 3387844143,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/paths/carrec.img.zip"
+    },
+    {
+      "path": "data/paths/tracks.dat",
+      "size": 25474,
+      "hash": 4118537323,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/paths/tracks.dat.zip"
+    },
+    {
+      "path": "data/paths/tracks2.dat",
+      "size": 1892,
+      "hash": 645026800,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/paths/tracks2.dat.zip"
+    },
+    {
+      "path": "data/paths/tracks3.dat",
+      "size": 8328,
+      "hash": 2315311536,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/paths/tracks3.dat.zip"
+    },
+    {
+      "path": "data/paths/tracks4.dat",
+      "size": 18347,
+      "hash": 1595400657,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/paths/tracks4.dat.zip"
+    },
+    {
+      "path": "data/ped.dat",
+      "size": 1276,
+      "hash": 2130195239,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/ped.dat.zip"
+    },
+    {
+      "path": "data/pedgrp.dat",
+      "size": 5792,
+      "hash": 1526174662,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/pedgrp.dat.zip"
+    },
+    {
+      "path": "data/peds.ide",
+      "size": 33401,
+      "hash": 3760275453,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/peds.ide.zip"
+    },
+    {
+      "path": "data/pedstats.dat",
+      "size": 3604,
+      "hash": 3062219409,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/pedstats.dat.zip"
+    },
+    {
+      "path": "data/plants.dat",
+      "size": 9887,
+      "hash": 906891884,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/plants.dat.zip"
+    },
+    {
+      "path": "data/popcycle.dat",
+      "size": 120836,
+      "hash": 3052551287,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/popcycle.dat.zip"
+    },
+    {
+      "path": "data/procobj.dat",
+      "size": 10019,
+      "hash": 4135555829,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/procobj.dat.zip"
+    },
+    {
+      "path": "data/reytiz.dat",
+      "size": 115096,
+      "hash": 1205267338,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/reytiz.dat.zip"
+    },
+    {
+      "path": "data/script/mainv1.scm",
+      "size": 18398,
+      "hash": 1679516241,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/script/mainv1.scm.zip"
+    },
+    {
+      "path": "data/script/mainv1.txt",
+      "size": 3690,
+      "hash": 1297027113,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/script/mainv1.txt.zip"
+    },
+    {
+      "path": "data/script/scriptv1.img",
+      "size": 4096,
+      "hash": 12977135,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/script/scriptv1.img.zip"
+    },
+    {
+      "path": "data/shopping.dat",
+      "size": 46875,
+      "hash": 1169300037,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/shopping.dat.zip"
+    },
+    {
+      "path": "data/statdisp.dat",
+      "size": 7292,
+      "hash": 540732456,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/statdisp.dat.zip"
+    },
+    {
+      "path": "data/surface.dat",
+      "size": 576,
+      "hash": 1114796003,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/surface.dat.zip"
+    },
+    {
+      "path": "data/surfaud.dat",
+      "size": 6530,
+      "hash": 2102681102,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/surfaud.dat.zip"
+    },
+    {
+      "path": "data/surfinfo.dat",
+      "size": 28106,
+      "hash": 2532884411,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/surfinfo.dat.zip"
+    },
+    {
+      "path": "data/timecyc.aaa",
+      "size": 38026,
+      "hash": 2852140840,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/timecyc.aaa.zip"
+    },
+    {
+      "path": "data/timecyc.bak",
+      "size": 40347,
+      "hash": 4085076495,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/timecyc.bak.zip"
+    },
+    {
+      "path": "data/timecyc.cfg",
+      "size": 39751,
+      "hash": 725526846,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/timecyc.cfg.zip"
+    },
+    {
+      "path": "data/timecyc.dat",
+      "size": 40037,
+      "hash": 3895753148,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/timecyc.dat.zip"
+    },
+    {
+      "path": "data/timecyc.tmp",
+      "size": 38243,
+      "hash": 2803263632,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/timecyc.tmp.zip"
+    },
+    {
+      "path": "data/timecyc.two",
+      "size": 40347,
+      "hash": 4085076495,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/timecyc.two.zip"
+    },
+    {
+      "path": "data/timecyc1.aaa",
+      "size": 38826,
+      "hash": 609086450,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/timecyc1.aaa.zip"
+    },
+    {
+      "path": "data/timecyc1.dat",
+      "size": 38826,
+      "hash": 609086450,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/timecyc1.dat.zip"
+    },
+    {
+      "path": "data/timecycp.dat",
+      "size": 40520,
+      "hash": 1463025846,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/timecycp.dat.zip"
+    },
+    {
+      "path": "data/timecycp1.dat",
+      "size": 40520,
+      "hash": 1463025846,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/timecycp1.dat.zip"
+    },
+    {
+      "path": "data/txdcut.ide",
+      "size": 478,
+      "hash": 3663372728,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/txdcut.ide.zip"
+    },
+    {
+      "path": "data/vehicles.ide",
+      "size": 21093,
+      "hash": 2795135445,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/vehicles.ide.zip"
+    },
+    {
+      "path": "data/water.dat",
+      "size": 50460,
+      "hash": 2381102597,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/water.dat.zip"
+    },
+    {
+      "path": "data/water1.dat",
+      "size": 60063,
+      "hash": 3437580769,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/water1.dat.zip"
+    },
+    {
+      "path": "data/water1s.dat",
+      "size": 65,
+      "hash": 2511737751,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/water1s.dat.zip"
+    },
+    {
+      "path": "data/water2.dat",
+      "size": 11,
+      "hash": 451281888,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/water2.dat.zip"
+    },
+    {
+      "path": "data/weapon.dat",
+      "size": 11599,
+      "hash": 2409607172,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/data/weapon.dat.zip"
+    },
+    {
+      "path": "fonts/arial.ttf",
+      "size": 367112,
+      "hash": 3311468482,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/fonts/arial.ttf.zip"
+    },
+    {
+      "path": "fonts/arial_bold.ttf",
+      "size": 352224,
+      "hash": 1041325953,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/fonts/arial_bold.ttf.zip"
+    },
+    {
+      "path": "fonts/georgia.ttf",
+      "size": 219712,
+      "hash": 820098993,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/fonts/georgia.ttf.zip"
+    },
+    {
+      "path": "fonts/impact.ttf",
+      "size": 206784,
+      "hash": 1472245449,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/fonts/impact.ttf.zip"
+    },
+    {
+      "path": "fonts/palatino_linotype.ttf",
+      "size": 489884,
+      "hash": 1975372749,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/fonts/palatino_linotype.ttf.zip"
+    },
+    {
+      "path": "fonts/quartz_ms.ttf",
+      "size": 51032,
+      "hash": 1746466833,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/fonts/quartz_ms.ttf.zip"
+    },
+    {
+      "path": "fonts/segoe_print.ttf",
+      "size": 172448,
+      "hash": 3099023015,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/fonts/segoe_print.ttf.zip"
+    },
+    {
+      "path": "fonts/segoe_script.ttf",
+      "size": 620204,
+      "hash": 368997331,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/fonts/segoe_script.ttf.zip"
+    },
+    {
+      "path": "fonts/tahoma.ttf",
+      "size": 939280,
+      "hash": 1070615828,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/fonts/tahoma.ttf.zip"
+    },
+    {
+      "path": "fonts/webdings.ttf",
+      "size": 120560,
+      "hash": 639837560,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/fonts/webdings.ttf.zip"
+    },
+    {
+      "path": "fonts/wingding.ttf",
+      "size": 82180,
+      "hash": 1781547972,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/fonts/wingding.ttf.zip"
+    },
+    {
+      "path": "loader/alpha/afternoon_sky_1.png",
+      "size": 1754614,
+      "hash": 505404424,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/loader/alpha/afternoon_sky_1.png.zip"
+    },
+    {
+      "path": "loader/alpha/daily_sky_1.png",
+      "size": 3199598,
+      "hash": 1337372897,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/loader/alpha/daily_sky_1.png.zip"
+    },
+    {
+      "path": "loader/alpha/evening_sky_1.png",
+      "size": 1874503,
+      "hash": 63213054,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/loader/alpha/evening_sky_1.png.zip"
+    },
+    {
+      "path": "loader/alpha/night_sky_1.png",
+      "size": 1592554,
+      "hash": 590610062,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/loader/alpha/night_sky_1.png.zip"
+    },
+    {
+      "path": "loader/reytiz.sys",
+      "size": 115096,
+      "hash": 1205267338,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/loader/reytiz.sys.zip"
+    },
+    {
+      "path": "models/coll/peds.col",
+      "size": 21477,
+      "hash": 3480607055,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/models/coll/peds.col.zip"
+    },
+    {
+      "path": "models/coll/vehicles.col",
+      "size": 1096,
+      "hash": 193277686,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/models/coll/vehicles.col.zip"
+    },
+    {
+      "path": "models/coll/weapons.col",
+      "size": 560,
+      "hash": 549301256,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/models/coll/weapons.col.zip"
+    },
+    {
+      "path": "models/effects.fxp",
+      "size": 646499,
+      "hash": 3834486556,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/models/effects.fxp.zip"
+    },
+    {
+      "path": "models/particle.txd",
+      "size": 593192,
+      "hash": 33859463,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/models/particle.txd.zip"
+    },
+    {
+      "path": "stream.ini",
+      "size": 197,
+      "hash": 3764534824,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/stream.ini.zip"
+    },
+    {
+      "path": "texdb/SAMP.ide",
+      "size": 87794,
+      "hash": 3087271161,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/SAMP.ide.zip"
+    },
+    {
+      "path": "texdb/SAMP.ipl",
+      "size": 2291,
+      "hash": 1428749814,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/SAMP.ipl.zip"
+    },
+    {
+      "path": "texdb/SAMPCOL.img",
+      "size": 3305472,
+      "hash": 1219541556,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/SAMPCOL.img.zip"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.dxt.dat",
+      "size": 5731070,
+      "hash": 1260775186,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/cutscene/cutscene.dxt.dat.zip"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.dxt.tmb",
+      "size": 19440,
+      "hash": 276823975,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/cutscene/cutscene.dxt.tmb.zip"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.dxt.toc",
+      "size": 1628,
+      "hash": 801503038,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/cutscene/cutscene.dxt.toc.zip"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.txt",
+      "size": 24626,
+      "hash": 1014594013,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/cutscene/cutscene.txt.zip"
+    },
+    {
+      "path": "texdb/cutscene.img",
+      "size": 16029696,
+      "hash": 3925281050,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/cutscene.img.zip"
+    },
+    {
+      "path": "texdb/gta3/gta3.dxt.dat",
+      "size": 132050640,
+      "hash": 1848561104,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta3/gta3.dxt.dat.zip"
+    },
+    {
+      "path": "texdb/gta3/gta3.dxt.tmb",
+      "size": 348576,
+      "hash": 2512260588,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta3/gta3.dxt.tmb.zip"
+    },
+    {
+      "path": "texdb/gta3/gta3.dxt.toc",
+      "size": 11812,
+      "hash": 2864019341,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta3/gta3.dxt.toc.zip"
+    },
+    {
+      "path": "texdb/gta3/gta3.txt",
+      "size": 180597,
+      "hash": 262117915,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta3/gta3.txt.zip"
+    },
+    {
+      "path": "texdb/gta3.img",
+      "size": 688781312,
+      "hash": 2436567596,
+      "url": "https://github.com/Ocasa1050/sasamp-game-cache/releases/download/release-1/texdb__gta3.img__913b122c.zip"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.dxt.dat",
+      "size": 555029900,
+      "hash": 3282229738,
+      "url": "https://github.com/Ocasa1050/sasamp-game-cache/releases/download/release-1/texdb__gta_int__gta_int.dxt.dat__c3a2d9ea.zip"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.dxt.tmb",
+      "size": 677034,
+      "hash": 933685790,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta_int/gta_int.dxt.tmb.zip"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.dxt.toc",
+      "size": 53336,
+      "hash": 3087663804,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta_int/gta_int.dxt.toc.zip"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.txt",
+      "size": 695978,
+      "hash": 4261444727,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta_int/gta_int.txt.zip"
+    },
+    {
+      "path": "texdb/gta_int.img",
+      "size": 32276480,
+      "hash": 122295792,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta_int.img.zip"
+    },
+    {
+      "path": "texdb/gui/gui.dxt.dat",
+      "size": 26178482,
+      "hash": 2127336978,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gui/gui.dxt.dat.zip"
+    },
+    {
+      "path": "texdb/gui/gui.dxt.tmb",
+      "size": 38904,
+      "hash": 1448629672,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gui/gui.dxt.tmb.zip"
+    },
+    {
+      "path": "texdb/gui/gui.dxt.toc",
+      "size": 500,
+      "hash": 3572013707,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gui/gui.dxt.toc.zip"
+    },
+    {
+      "path": "texdb/gui/gui.txt",
+      "size": 8473,
+      "hash": 1384562037,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gui/gui.txt.zip"
+    },
+    {
+      "path": "texdb/menu/menu.dxt.dat",
+      "size": 5187414,
+      "hash": 2538109176,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/menu/menu.dxt.dat.zip"
+    },
+    {
+      "path": "texdb/menu/menu.dxt.tmb",
+      "size": 992,
+      "hash": 655647110,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/menu/menu.dxt.tmb.zip"
+    },
+    {
+      "path": "texdb/menu/menu.dxt.toc",
+      "size": 176,
+      "hash": 3748741642,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/menu/menu.dxt.toc.zip"
+    },
+    {
+      "path": "texdb/menu/menu.txt",
+      "size": 3147,
+      "hash": 1795353902,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/menu/menu.txt.zip"
+    },
+    {
+      "path": "texdb/mobile/mobile.dxt.dat",
+      "size": 24138750,
+      "hash": 1124415846,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/mobile/mobile.dxt.dat.zip"
+    },
+    {
+      "path": "texdb/mobile/mobile.dxt.tmb",
+      "size": 22016,
+      "hash": 171420894,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/mobile/mobile.dxt.tmb.zip"
+    },
+    {
+      "path": "texdb/mobile/mobile.dxt.toc",
+      "size": 816,
+      "hash": 4038788001,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/mobile/mobile.dxt.toc.zip"
+    },
+    {
+      "path": "texdb/mobile/mobile.txt",
+      "size": 13855,
+      "hash": 2643862996,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/mobile/mobile.txt.zip"
+    },
+    {
+      "path": "texdb/player/player.dxt.dat",
+      "size": 6569414,
+      "hash": 1852464878,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/player/player.dxt.dat.zip"
+    },
+    {
+      "path": "texdb/player/player.dxt.tmb",
+      "size": 6940,
+      "hash": 676965088,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/player/player.dxt.tmb.zip"
+    },
+    {
+      "path": "texdb/player/player.dxt.toc",
+      "size": 1580,
+      "hash": 2932555212,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/player/player.dxt.toc.zip"
+    },
+    {
+      "path": "texdb/player/player.txt",
+      "size": 27810,
+      "hash": 2460800028,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/player/player.txt.zip"
+    },
+    {
+      "path": "texdb/player.img",
+      "size": 16412672,
+      "hash": 596689104,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/player.img.zip"
+    },
+    {
+      "path": "texdb/samp/samp.dxt.dat",
+      "size": 95260512,
+      "hash": 3519457540,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/samp/samp.dxt.dat.zip"
+    },
+    {
+      "path": "texdb/samp/samp.dxt.tmb",
+      "size": 78912,
+      "hash": 97496776,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/samp/samp.dxt.tmb.zip"
+    },
+    {
+      "path": "texdb/samp/samp.dxt.toc",
+      "size": 6296,
+      "hash": 513813612,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/samp/samp.dxt.toc.zip"
+    },
+    {
+      "path": "texdb/samp/samp.txt",
+      "size": 103978,
+      "hash": 1633528554,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/samp/samp.txt.zip"
+    },
+    {
+      "path": "texdb/samp.img",
+      "size": 35186688,
+      "hash": 2705621206,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/samp.img.zip"
+    },
+    {
+      "path": "texdb/txd/txd.dxt.dat",
+      "size": 56358504,
+      "hash": 2436961342,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/txd/txd.dxt.dat.zip"
+    },
+    {
+      "path": "texdb/txd/txd.dxt.tmb",
+      "size": 77536,
+      "hash": 2659171214,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/txd/txd.dxt.tmb.zip"
+    },
+    {
+      "path": "texdb/txd/txd.dxt.toc",
+      "size": 2996,
+      "hash": 213063832,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/txd/txd.dxt.toc.zip"
+    },
+    {
+      "path": "texdb/txd/txd.txt",
+      "size": 52019,
+      "hash": 2265032071,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/txd/txd.txt.zip"
+    }
+  ]
 }
