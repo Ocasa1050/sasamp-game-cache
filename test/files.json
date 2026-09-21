@@ -1,5 +1,5 @@
 {
-  "allFilesSize": 2159383535,
+  "allFilesSize": 3975091887,
   "files": [
     {
       "path": "SAMP/SAMP.ide",
@@ -3810,6 +3810,384 @@
       "size": 52019,
       "hash": 2265032071,
       "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/txd/txd.txt.zip"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.etc.dat",
+      "size": 5731070,
+      "hash": 1260775186,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/cutscene/cutscene.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.pvr.dat",
+      "size": 5731070,
+      "hash": 1260775186,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/cutscene/cutscene.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.etc.tmb",
+      "size": 19440,
+      "hash": 276823975,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/cutscene/cutscene.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.pvr.tmb",
+      "size": 19440,
+      "hash": 276823975,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/cutscene/cutscene.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.etc.toc",
+      "size": 1628,
+      "hash": 801503038,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/cutscene/cutscene.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/cutscene/cutscene.pvr.toc",
+      "size": 1628,
+      "hash": 801503038,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/cutscene/cutscene.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gta3/gta3.etc.dat",
+      "size": 132050640,
+      "hash": 1848561104,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta3/gta3.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gta3/gta3.pvr.dat",
+      "size": 132050640,
+      "hash": 1848561104,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta3/gta3.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gta3/gta3.etc.tmb",
+      "size": 348576,
+      "hash": 2512260588,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta3/gta3.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gta3/gta3.pvr.tmb",
+      "size": 348576,
+      "hash": 2512260588,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta3/gta3.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gta3/gta3.etc.toc",
+      "size": 11812,
+      "hash": 2864019341,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta3/gta3.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gta3/gta3.pvr.toc",
+      "size": 11812,
+      "hash": 2864019341,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta3/gta3.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.etc.dat",
+      "size": 555029900,
+      "hash": 3282229738,
+      "url": "https://github.com/Ocasa1050/sasamp-game-cache/releases/download/release-1/texdb__gta_int__gta_int.dxt.dat__c3a2d9ea.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.pvr.dat",
+      "size": 555029900,
+      "hash": 3282229738,
+      "url": "https://github.com/Ocasa1050/sasamp-game-cache/releases/download/release-1/texdb__gta_int__gta_int.dxt.dat__c3a2d9ea.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.etc.tmb",
+      "size": 677034,
+      "hash": 933685790,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta_int/gta_int.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.pvr.tmb",
+      "size": 677034,
+      "hash": 933685790,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta_int/gta_int.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.etc.toc",
+      "size": 53336,
+      "hash": 3087663804,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta_int/gta_int.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gta_int/gta_int.pvr.toc",
+      "size": 53336,
+      "hash": 3087663804,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gta_int/gta_int.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gui/gui.etc.dat",
+      "size": 26178482,
+      "hash": 2127336978,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gui/gui.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gui/gui.pvr.dat",
+      "size": 26178482,
+      "hash": 2127336978,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gui/gui.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gui/gui.etc.tmb",
+      "size": 38904,
+      "hash": 1448629672,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gui/gui.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gui/gui.pvr.tmb",
+      "size": 38904,
+      "hash": 1448629672,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gui/gui.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gui/gui.etc.toc",
+      "size": 500,
+      "hash": 3572013707,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gui/gui.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/gui/gui.pvr.toc",
+      "size": 500,
+      "hash": 3572013707,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/gui/gui.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/menu/menu.etc.dat",
+      "size": 5187414,
+      "hash": 2538109176,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/menu/menu.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/menu/menu.pvr.dat",
+      "size": 5187414,
+      "hash": 2538109176,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/menu/menu.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/menu/menu.etc.tmb",
+      "size": 992,
+      "hash": 655647110,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/menu/menu.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/menu/menu.pvr.tmb",
+      "size": 992,
+      "hash": 655647110,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/menu/menu.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/menu/menu.etc.toc",
+      "size": 176,
+      "hash": 3748741642,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/menu/menu.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/menu/menu.pvr.toc",
+      "size": 176,
+      "hash": 3748741642,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/menu/menu.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/mobile/mobile.etc.dat",
+      "size": 24138750,
+      "hash": 1124415846,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/mobile/mobile.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/mobile/mobile.pvr.dat",
+      "size": 24138750,
+      "hash": 1124415846,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/mobile/mobile.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/mobile/mobile.etc.tmb",
+      "size": 22016,
+      "hash": 171420894,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/mobile/mobile.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/mobile/mobile.pvr.tmb",
+      "size": 22016,
+      "hash": 171420894,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/mobile/mobile.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/mobile/mobile.etc.toc",
+      "size": 816,
+      "hash": 4038788001,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/mobile/mobile.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/mobile/mobile.pvr.toc",
+      "size": 816,
+      "hash": 4038788001,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/mobile/mobile.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/player/player.etc.dat",
+      "size": 6569414,
+      "hash": 1852464878,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/player/player.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/player/player.pvr.dat",
+      "size": 6569414,
+      "hash": 1852464878,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/player/player.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/player/player.etc.tmb",
+      "size": 6940,
+      "hash": 676965088,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/player/player.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/player/player.pvr.tmb",
+      "size": 6940,
+      "hash": 676965088,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/player/player.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/player/player.etc.toc",
+      "size": 1580,
+      "hash": 2932555212,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/player/player.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/player/player.pvr.toc",
+      "size": 1580,
+      "hash": 2932555212,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/player/player.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/samp/samp.etc.dat",
+      "size": 95260512,
+      "hash": 3519457540,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/samp/samp.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/samp/samp.pvr.dat",
+      "size": 95260512,
+      "hash": 3519457540,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/samp/samp.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/samp/samp.etc.tmb",
+      "size": 78912,
+      "hash": 97496776,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/samp/samp.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/samp/samp.pvr.tmb",
+      "size": 78912,
+      "hash": 97496776,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/samp/samp.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/samp/samp.etc.toc",
+      "size": 6296,
+      "hash": 513813612,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/samp/samp.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/samp/samp.pvr.toc",
+      "size": 6296,
+      "hash": 513813612,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/samp/samp.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/txd/txd.etc.dat",
+      "size": 56358504,
+      "hash": 2436961342,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/txd/txd.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/txd/txd.pvr.dat",
+      "size": 56358504,
+      "hash": 2436961342,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/txd/txd.dxt.dat.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/txd/txd.etc.tmb",
+      "size": 77536,
+      "hash": 2659171214,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/txd/txd.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/txd/txd.pvr.tmb",
+      "size": 77536,
+      "hash": 2659171214,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/txd/txd.dxt.tmb.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/txd/txd.etc.toc",
+      "size": 2996,
+      "hash": 213063832,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/txd/txd.dxt.toc.zip",
+      "contentFormat": ".dxt"
+    },
+    {
+      "path": "texdb/txd/txd.pvr.toc",
+      "size": 2996,
+      "hash": 213063832,
+      "url": "https://raw.githubusercontent.com/Ocasa1050/sasamp-game-cache/main/release/repository/texdb/txd/txd.dxt.toc.zip",
+      "contentFormat": ".dxt"
     }
   ]
 }
